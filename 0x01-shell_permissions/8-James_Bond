@@ -1,2 +1,2 @@
 #!/bin/bash
--------rwx
+chmod sudo 001 hello 
