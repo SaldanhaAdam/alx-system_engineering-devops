@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv --vo=tct StarWars IV
+mpv --vo=tct <StarWars IV>
