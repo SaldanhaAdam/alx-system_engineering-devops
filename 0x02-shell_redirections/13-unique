@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u | awk 'NF==1'
+cat input.txt | sort | uniq -u | awk 'NF==1'
